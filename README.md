@@ -1,5 +1,4 @@
 # sambhu-demo1
 This is my first Git Repository.
 <br>
-Author - Shiv Kumar
-
+Author - Shiv Kumar (Anonymous Community)
